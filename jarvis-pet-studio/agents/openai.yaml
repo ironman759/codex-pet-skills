@@ -1,6 +1,0 @@
-interface:
-  display_name: "Jarvis Pet Studio"
-  short_description: "Design and hatch a personalized Codex pet"
-  default_prompt: "Use $jarvis-pet-studio to design a personalized Codex pet through visual approval gates before production."
-policy:
-  allow_implicit_invocation: true
